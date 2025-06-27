@@ -32,7 +32,9 @@
 ## 🧑‍💻 Instrucciones para comenzar
 
 ### 1. Clona este repositorio
-
+```
+git clone...
+```
 
 ### 2. Instala JSON Server
 
